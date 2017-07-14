@@ -1,0 +1,14 @@
+.messagePot{
+  display: inline-block;
+  margin: 5px;
+}
+h1 {
+  text-align: center;
+}
+body {
+background: url('../../assets/img/nightsky.jpg');
+}
+
+.messageBubble {
+  background-color: orange;
+}
